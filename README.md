@@ -45,8 +45,8 @@ Esse projeto é excelente para quem está começando com front-end e quer pratic
 
 ## 📬 Contato
 Quer acompanhar meu progresso ou dar sugestões?
-GitHub: @jessiepsx
-LinkedIn: https://www.linkedin.com/in/jessiepsx/
+- GitHub: @jessiepsx
+- LinkedIn: https://www.linkedin.com/in/jessiepsx/
 
 
 
